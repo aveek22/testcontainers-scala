@@ -1,2 +1,10 @@
 *.class
 *.log
+
+.idea/
+.bsp/
+.bloop/
+.vscode/
+target/
+
+project/target/
